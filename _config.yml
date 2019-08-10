@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "Scriptor"
+title: "Ian A. Cosden"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Musings of a semi-intersting person"
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: "/Scriptor-Jekyll-Theme"
+baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://cosden.github.io/Scriptor-Jekyll-Theme"
+url: "https://cosden.github.io"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -23,21 +23,17 @@ navigation:
   url: /
 - text: About
   url: /about/
-- text: Style Guides
-  url: /style-guide/
 - text: Archives
   url: /tags/
-- text: Download
-  url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
 
 # Author information - author info at the bottom of the post
-author_name: "John Doe"
-author_bio: "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious."
-author_url:  "http://justgoodthemes.com"
-author_location: "Vilnius, Lithuania"
+author_name: "Ian Cosden"
+author_bio: "I work at Princeton, lead a team of Research Software Engineers, and occasionally have good ideas"
+author_url:  "http://cosden.github.io"
+author_location: "Princeton, NJ"
 author_image: /assets/images/authorimage.png
 
 # Social links in the site footer
