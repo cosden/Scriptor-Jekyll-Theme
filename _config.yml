@@ -12,10 +12,10 @@ title: "Ian A. Cosden"
 description: "Musings of a semi-intersting person"
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: ""
+baseurl: 
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://cosden.github.io"
+url: "https://cosden.github.io/Scriptor-Jekyll-Theme"
 
 # Site navigation - each item must have a title and a url.
 navigation:
